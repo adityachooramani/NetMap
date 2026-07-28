@@ -1,6 +1,6 @@
 # NetMap : nmap like network mapper but with a genz lingo :D
 
-## Description:
+## Description
 This is basically a network scanner which currently searches for open ports.
 I have used sockets API for connecting to the target IP and currently it is very basic.
 I will add more features like IPv6 scanning and locating filtered/non-filtered ports.
